@@ -9,4 +9,9 @@ public class TestMain {
 public void testInputIsEven(){
 assertTrue(Main.checkIfInputIsAnEvenNumber(21)); // Assertion
 }
+  
+  @Test
+public void testInputIsEven(){
+assertTrue(Main.checkIfInputIsAnEvenNumber(22)); // Assertion
+}
 }
